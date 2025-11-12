@@ -89,5 +89,5 @@ Programming 3B - PROG7312 - POE
 https://youtu.be/up3pev6gbig?si=aB_jDxaFd3tNF8t1
 
 #### GitHub Link: 
-https://github.com/emmajaedunn/ST10301125_PROG7312_MunicipalityServicesApplication.git
+https://github.com/VCCT-PROG7312-2025-G1/ST10301125_PROG7312_MunicipalityServicesApplication.git
 
